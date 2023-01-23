@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farsana Rahim @farsana-fr. I am starting to come back to learning after a long break
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I'm undergoing a training in MEARN Stack, Hope I will be able to manage a site alone. Previously started with ROR with a course in upskillcourses.com by Rob Dey
+- 🌱 I'm undergoing a training in MEARN Stack, Hope I will be able to manage a site alone. Previously started with ROR, a course in upskillcourses.com by Rob Dey then switched to Javascript framework by falling in love with this language from course by Jonas Schmedtmann.
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
